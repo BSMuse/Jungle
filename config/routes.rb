@@ -17,7 +17,13 @@ Rails.application.routes.draw do
     resources :products, except: [:edit, :update, :show]
     resources :categories, except: [:edit, :update, :show]
   end
-
+  
+  # For sessions
+  resources :users, only: [:new, :create, :destroy] do
+    get 'login', on: :collection
+    post 'authenticate', on: :collection
+    delete 'logout', on: :collection
+  end 
   # namespace :admin do
   #   root to: 'dashboard#show'
   #   resources :categories, except: [:edit, :update, :show]
