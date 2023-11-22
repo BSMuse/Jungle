@@ -8,12 +8,20 @@
 <h1>Login</h1>
 <br/>
 <%= form_with(url: authenticate_users_path, method: :post) do |form| %>
-  <%= form.label :email %>
-  <%= form.email_field :email, name: 'session[email]' %>
-
-  <%= form.label :password %>
-  <%= form.password_field :password, name: 'session[password]' %>
-
-  <%= form.submit 'Login' %>
+  <div class="row">
+    <div class="col-md-6">
+      <%= form.label :email %>
+      <%= form.email_field :email, name: 'session[email]' %>
+    </div>
+  </div>
+<br/>
+  <div class="row">
+    <div class="col-md-6">
+    <%= form.label :password %>
+    <%= form.password_field :password, name: 'session[password]' %>
+    </div>
+  </div>
+  <br/>
+  <%= form.submit  'Login', class: 'btn btn-primary'%>
 <% end %>
 
