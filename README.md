@@ -33,7 +33,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 ## Screenshots
 
 !["Screenshot of home screen"](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_homescreen.png?raw=true)
-!["Screenshot of products](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_modal.png?raw=true)
+!["Screenshot of products](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_products.png?raw=true)
 !["Screenshot of login"](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_login.png?raw=true)
 !["Screenshot of register](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_register.png?raw=true)
 !["Screenshot of cart](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_cart.png?raw=true)
