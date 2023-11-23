@@ -32,7 +32,11 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
-!["Screenshot of home screen"](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_home.png?raw=true)
-!["Screenshot of modal](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_modal.png?raw=true)
-!["Screenshot of category switch"](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_animals.png?raw=true)
-!["Screenshot of category switch"](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_nature.png?raw=true)
+!["Screenshot of home screen"](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_homescreen.png?raw=true)
+!["Screenshot of products](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_modal.png?raw=true)
+!["Screenshot of login"](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_login.png?raw=true)
+!["Screenshot of register](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_register.png?raw=true)
+!["Screenshot of cart](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_cart.png?raw=true)
+!["Screenshot of checkout](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_checkout.png?raw=true)
+!["Screenshot of admin products](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_admin_products.png?raw=true)
+!["Screenshot of admin categories](https://github.com/BSMuse/Jungle/blob/master/docs/jungle_admin_categories.png?raw=true)
