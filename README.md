@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. Implemented New Models, Controllers, and Views construct new features. Added auth with bcrypt. Used Rspec to test fetures. 
 
 ## Setup
 
@@ -29,3 +29,10 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Screenshots
+
+!["Screenshot of home screen"](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_home.png?raw=true)
+!["Screenshot of modal](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_modal.png?raw=true)
+!["Screenshot of category switch"](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_animals.png?raw=true)
+!["Screenshot of category switch"](https://github.com/BSMuse/photolabs-starter/blob/main/docs/photolabs_nature.png?raw=true)
